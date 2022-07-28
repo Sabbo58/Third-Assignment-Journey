@@ -5,5 +5,5 @@ a:hover {
 
 .img-cover {
     height: 500px;
-    background: linear-gradient(0, 0, 0, 0.52);
+    filter: brightness(60%);
 }
