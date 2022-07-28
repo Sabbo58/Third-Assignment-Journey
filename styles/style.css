@@ -7,3 +7,9 @@ a:hover {
     height: 500px;
     filter: brightness(60%);
 }
+
+footer a {
+    font-size: 22px;
+    color: white;
+    margin-left: 17px;
+}
