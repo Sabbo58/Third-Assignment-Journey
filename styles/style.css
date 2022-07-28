@@ -1,0 +1,9 @@
+/*Header section*/
+a:hover {
+    background-color: skyblue;
+}
+
+.img-cover {
+    height: 500px;
+    background: linear-gradient(0, 0, 0, 0.52);
+}
