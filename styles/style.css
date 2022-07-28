@@ -13,3 +13,13 @@ footer a {
     color: white;
     margin-left: 17px;
 }
+
+footer a:hover {
+    color: white;
+    background-color: black;
+}
+
+.register {
+    text-decoration: none;
+    font-size: 15px;
+}
